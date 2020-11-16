@@ -1,0 +1,47 @@
+LCoder v2.0
+File
+Encode
+Decode
+Password
+Create/Load key-file
+Confirm password
+Output-file
+Encoded file
+Open
+doesn't exists.
+Access error of file
+The file seems to be damaged
+The password must contain a minimum of 4 characters.
+Overwrite key-file
+Change key-file
+Cancel
+already exists. What do You want to do?
+Warning
+Key-file
+Save
+Overwrite destination-file
+Change destination-file
+The destination-file is a directory.
+Process successful.
+Saving error of file
+The passwords don't match
+No password specified.
+Create key-file
+Selected invalid file.
+You must select a file with the extension
+
+Decoded file
+without file extension
+Load key-file
+Select file
+Preferences
+Language
+Apply
+Please restart the program to apply the changes.
+Encoding file...
+Decoding file...
+will be saved...
+Close
+Progress:
+The process has been canceled.
+Reading file...
